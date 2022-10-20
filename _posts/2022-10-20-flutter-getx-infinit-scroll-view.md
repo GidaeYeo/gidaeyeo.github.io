@@ -9,7 +9,7 @@ This post is about the infinite scroll view with getx.
 There are lots of pages regarding the infinite scroll view. But I needed to know how to use the infinite scroll view with getx correctly.
 I use getx for state management and routing.
 
-
+태중님~
 
 #### Triggering specific callbacks when an event occurs.
     /// Called every time `count1` changes.

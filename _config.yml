@@ -33,7 +33,7 @@ github_username:  jekyll
 # theme: minima
 # theme: minimal-mistakes-jekyll
 # remote_theme: "mmistakes/minimal-mistakes"
-remote_theme: "Jekyll-Garden/jekyll-garden.github.io"
+remote_theme: "pages-themes/tactile"
 
 plugins:
   - jekyll-feed

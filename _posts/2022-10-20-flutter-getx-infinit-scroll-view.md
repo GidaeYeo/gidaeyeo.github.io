@@ -9,7 +9,8 @@ This post is about the infinite scroll view with getx.
 There are lots of pages regarding the infinite scroll view. But I needed to know how to use the infinite scroll view with getx correctly.
 I use getx for state management and routing.
 
-태중님~
+
+
 
 #### Triggering specific callbacks when an event occurs.
     /// Called every time `count1` changes.
@@ -45,3 +46,6 @@ I use getx for state management and routing.
   * http query parameters
 * [Reactive State Manager](https://chornthorn.github.io/getx-docs/state-management/reactive-state-manager/index/)
   * about ever()
+* [Dart getters and setters](https://dev.to/newtonmunene_yg/dart-getters-and-setters-1c8f)
+  * about dart getter and setter
+  * int get page;

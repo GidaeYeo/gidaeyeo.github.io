@@ -36,7 +36,14 @@ github_username:  gidaeyeo
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # remote_theme: "pages-themes/tactile"
 
-google_analytics: G-V8B530T9EF
+# google_analytics: G-V8B530T9EF
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-V8B530T9EF"
+    anonymize_ip         : false # true, false (default)
 
 plugins:
   - jekyll-feed

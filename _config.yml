@@ -42,6 +42,13 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-data
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -62,3 +69,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+search                    : true
+search_full_content       : true
+search_provider           : lunr # lunr (default), algolia

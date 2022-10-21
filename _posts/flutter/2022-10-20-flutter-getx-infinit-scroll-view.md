@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title:  "flutter infinite scroll view with getx and http"
 date:   2022-10-20 11:13:18 +0900
 categories: flutter

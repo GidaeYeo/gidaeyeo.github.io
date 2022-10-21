@@ -4,7 +4,7 @@ title:  "flutter infinite scroll view with getx and http"
 date:   2022-10-20 11:13:18 +0900
 categories: flutter
 ---
-test
+
 
 This post is about the infinite scroll view with getx and http.
 There are lots of pages regarding the infinite scroll view. 

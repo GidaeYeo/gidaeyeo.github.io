@@ -1,13 +1,22 @@
 ---
 layout: default
-title:  "flutter infinite scroll view with getx"
+title:  "flutter infinite scroll view with getx and http"
 date:   2022-10-20 11:13:18 +0900
 categories: flutter
 ---
 
-This post is about the infinite scroll view with getx.
-There are lots of pages regarding the infinite scroll view. But I needed to know how to use the infinite scroll view with getx correctly.
-I use getx for state management and routing.
+This post is about the infinite scroll view with getx and http.
+There are lots of pages regarding the infinite scroll view. 
+But I needed to know how to use the infinite scroll view with getx and http correctly.
+
+<br>
+The requirements to implement are as below,
+
+* receives json data through http
+* processes the received json data for getx mode classes
+* shows the data on the scroll view
+* provides pagination by bottom scrolling
+
 
 
 

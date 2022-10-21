@@ -259,6 +259,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-include-cache
+  jekyll-sitemap
 
 BUNDLED WITH
    2.3.24

@@ -16,13 +16,16 @@ FastAPI naturally provides Response Model!!!
 
 Moreover, FastAPI includes routers defined on the other files with include_routers.
 
+```python
     from fastapi import FastAPI
 
     app = FastAPI()
     app.include_router(api_router)
+```
 
 Routers are defined anywhere by APIRouter.
 
+```python
     from fastapi import APIRouter
 
     api_router = APIRouter()
@@ -40,6 +43,6 @@ Routers are defined anywhere by APIRouter.
                 }
             ]
         }
-
+```
     
 Just use APIRouter instead of FastAPI on the annotation decorator.

@@ -3,7 +3,8 @@ layout: single
 title:  "python package management with the requirements.txt in IntelliJ"
 date:   2022-10-28 09:31:00 +0900
 categories: python
-featured-image: /docs/assets/2022-10-28-intellij-page.png
+header:
+    teaser: /docs/assets/2022-10-28-intellij-page.png
 ---
 
 It's pretty annoying to install packages required for a python project without missing.

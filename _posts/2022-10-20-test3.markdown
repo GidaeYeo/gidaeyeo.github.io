@@ -1,8 +1,0 @@
----
-layout: single
-title:  "Test 3"
-date:   2022-10-20 11:13:18 +0900
-categories: jekyll update
----
-
-Just Test

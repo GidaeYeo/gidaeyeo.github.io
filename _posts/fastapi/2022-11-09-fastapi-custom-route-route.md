@@ -2,7 +2,7 @@
 layout: single
 title:  "FastAPI Custom APIRoute to log JSON Body Parameters and Elapsed Time"
 date:   2022-11-09 09:01:00 +0900
-categories: flask
+categories: fastapi
 ---
 
 When you use Flask, it is effortless to get json body parameters to log with the 'request' instance.

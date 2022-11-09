@@ -2,7 +2,7 @@
 layout: single
 title:  "Flask distribute (separate) tons of routers using APIRouter and include_router"
 date:   2022-10-27 13:04:00 +0900
-categories: flask
+categories: fastapi
 ---
 
 FastAPI is an excellent choice when you need to create a RESTful API server quickly with reliable and robust features

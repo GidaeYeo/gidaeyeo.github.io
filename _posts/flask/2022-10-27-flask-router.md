@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Flask distribute (separate) tons of routers using APIRouter and include_router"
+title:  "FastAPI distribute (separate) tons of routers using APIRouter and include_router"
 date:   2022-10-27 13:04:00 +0900
 categories: fastapi
 ---
